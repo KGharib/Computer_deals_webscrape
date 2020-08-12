@@ -3,6 +3,7 @@ The aim of this project is to webscrape https://slickdeals.net/computer-deals/ i
 <br> <br>
 Tools Used:
 - Scrapy
+- Selenium
 - Visual Studio Code
 <br><br>
 Futher Works: I would like to webscrape from other websites in realtion to computer/tech deals and compare between websites to see which one ggives the best deal/offer 
