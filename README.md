@@ -6,4 +6,4 @@ Tools Used:
 - Selenium
 - Visual Studio Code
 <br><br>
-Futher Works: I would like to webscrape from other websites in realtion to computer/tech deals and compare between websites to see which one ggives the best deal/offer 
+Futher Works: I would like to webscrape from other websites in realtion to computer/tech deals and compare between websites to see which one gives the best deal/offer 
